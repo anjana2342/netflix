@@ -10,12 +10,12 @@ Responsive Layout: Uses reusable Navbar and Footer components that adapt to diff
 
 ## TECH STACK
 
-Framework  React             Component-based UI library.
-Tooling     Vite          Fast development server and build tool.
-RoutingReact Router DOM           Handles application navigation (/, /home, /movie/:id).
-Styling     CSS                   Custom styling, imported via ../App.css.
-API Client  Axios                   Used for making HTTP requests to external APIs.
-Content API   The Movie Database (TMDB)         Source for all movie data, posters, and trailer keys.AuthLocal StorageUsed for client-side storage of user credentials (simulated authentication).
+Framework || React         ||    Component-based UI library.
+Tooling   ||  Vite      ||    Fast development server and build tool.
+RoutingReact || Router DOM       ||    Handles application navigation (/, /home, /movie/:id).
+Styling    || CSS               ||    Custom styling, imported via ../App.css.
+API Client ||  Axios               ||    Used for making HTTP requests to external APIs.
+Content API  || The Movie Database (TMDB)       ||  Source for all movie data, posters, and trailer keys.AuthLocal StorageUsed for client-side storage of user credentials (simulated authentication).
 
 
 ## Getting Started
