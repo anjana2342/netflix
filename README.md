@@ -44,11 +44,11 @@ Start the development server
 npm run dev
 
 ## Project Structure
-Path                             Description
-src/Pages/Home.jsx            Main dashboard displaying trending movies from TMDB.
-src/Pages/Login.jsx                  Handles user sign-in via local storage check.
-src/Pages/Signup.jsx            Handles user registration, saving credentials to local storage.
-src/Pages/MovieDetails.jsx        Fetches and displays a single movie's details and trailer.
-src/Components/Navbar.jsx                 Reusable header with sign-out logic.
-src/Components/Footer.jsx         Reusable standard Netflix footer.
-src/App.css                      All global and component-specific CSS styling.
+                            
+src/Pages/Home.jsx        ||    Main dashboard displaying trending movies from TMDB.
+src/Pages/Login.jsx         ||         Handles user sign-in via local storage check.
+src/Pages/Signup.jsx         ||   Handles user registration, saving credentials to local storage.
+src/Pages/MovieDetails.jsx     ||   Fetches and displays a single movie's details and trailer.
+src/Components/Navbar.jsx          ||       Reusable header with sign-out logic.
+src/Components/Footer.jsx       ||  Reusable standard Netflix footer.
+src/App.css                     || All global and component-specific CSS styling.
