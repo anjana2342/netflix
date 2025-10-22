@@ -21,15 +21,15 @@ Content API  || The Movie Database (TMDB)       ||  Source for all movie data, p
 ## Getting Started
 
 Follow these instructions to set up the project locally.
-Prerequisites
 
-Node.js 
+
+Node.js ,
 npm
 
 ## Installation
-Clone the repository
+
 cd netflix
-Install dependencies
+
 npm install
 
 ## Environment Variables
