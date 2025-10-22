@@ -1,4 +1,4 @@
-Netflix Clone
+## NETFLIX-CLONE
 This is a modern, responsive front-end application built with React and Vite that closely replicates the user experience and key pages of the Netflix streaming platform. It features user authentication (simulated with local storage) and dynamic content display by integrating with The Movie Database (TMDB) API.
 Key Features
 Simulated Authentication: Users can Sign Up and Log In using local storage to simulate user sessions.
@@ -7,8 +7,6 @@ Interactive Movie Cards: Implements a hover effect on movie posters to play a sa
 Movie Details Page: Clicking on a movie navigates to a dedicated page to display the trailer (embedded from YouTube) and movie overview.
 Responsive Layout: Uses reusable Navbar and Footer components that adapt to different routes.
 
-Netflix Clone
-A dynamic front-end replication of the Netflix user interface and browsing experience, built with React, Vite, and leveraging the TMDB API for movie data.
 
 Tech Stack
 
