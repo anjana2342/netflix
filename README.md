@@ -40,7 +40,7 @@ VITE_TMDB_KEY="YOUR_TMDB_API_KEY_HERE"
 
 ## Running the Application
 
-Start the development server
+
 npm run dev
 
 ## Project Structure
