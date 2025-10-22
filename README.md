@@ -8,7 +8,7 @@ Movie Details Page: Clicking on a movie navigates to a dedicated page to display
 Responsive Layout: Uses reusable Navbar and Footer components that adapt to different routes.
 
 
-Tech Stack
+## TECH STACK
 
 Framework  React             Component-based UI library.
 Tooling     Vite          Fast development server and build tool.
@@ -18,7 +18,7 @@ API Client  Axios                   Used for making HTTP requests to external AP
 Content API   The Movie Database (TMDB)         Source for all movie data, posters, and trailer keys.AuthLocal StorageUsed for client-side storage of user credentials (simulated authentication).
 
 
-Getting Started
+## Getting Started
 
 Follow these instructions to set up the project locally.
 Prerequisites
@@ -26,24 +26,24 @@ Prerequisites
 Node.js 
 npm
 
-Installation
+## Installation
 Clone the repository
 cd netflix
 Install dependencies
 npm install
 
-Environment Variables
+## Environment Variables
 
 This project requires an API key from The Movie Database (TMDB).
 Create a file named .env in the root directory and add your key:
 VITE_TMDB_KEY="YOUR_TMDB_API_KEY_HERE"
 
-Running the Application
+## Running the Application
 
 Start the development server
 npm run dev
 
-Project Structure
+## Project Structure
 Path           Description
 src/Pages/Home.jsx           Main dashboard displaying trending movies from TMDB.
 src/Pages/Login.jsx        Handles user sign-in via local storage check.
